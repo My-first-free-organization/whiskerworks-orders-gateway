@@ -1,2 +1,8 @@
 # whiskerworks-orders-gateway
-WhiskerWorks orders gateway: part of the cat-commerce platform
+
+Owns the **orders** domain of WhiskerWorks.
+
+## Run
+```bash
+npm ci && npm run dev
+```
