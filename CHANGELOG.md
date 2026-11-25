@@ -1,4 +1,4 @@
 # Changelog
 
-## 0.3.0
-- orders improvements batch 2
+## 0.4.0
+- orders improvements batch 3
